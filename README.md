@@ -7,7 +7,10 @@ This project analyzes retail sales data to identify key drivers of profitability
 
 The analysis follows an end-to-end data analytics workflow, from data exploration using SQL to interactive visualization using Power BI.
 
-🔍SQL Queries? Find out here : [project-sql](/project-sql/)
+🔍 SQL Queries? Find out here : [project-sql](/project-sql/)
+
+📊 Dashboard File? Find out here : [Dashboard](dashboard.pbix)
+
 
 ## ❓ Business Problem
 Despite strong sales performance, the business experiences inconsistent profitability across regions, products, and discount strategies. Management needs a clear understanding of:
