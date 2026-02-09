@@ -9,9 +9,6 @@ The analysis follows an end-to-end data analytics workflow, from data exploratio
 
 🔍 SQL Queries? Find out here : [project-sql](/project-sql/)
 
-📊 Dashboard File? Find out here : [Dashboard](dashboard.pbix)
-
-
 ## ❓ Business Problem
 Despite strong sales performance, the business experiences inconsistent profitability across regions, products, and discount strategies. Management needs a clear understanding of:
 - Where losses are concentrated
