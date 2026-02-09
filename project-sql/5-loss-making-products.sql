@@ -38,4 +38,5 @@ FROM
 CROSS JOIN sales_threshold s
 WHERE p.total_sales >= s.high_sales_threshold
   AND p.total_profit < 0
-ORDER BY p.total_sales DESC;
+ORDER BY p.total_sales DESC
+LIMIT 5;

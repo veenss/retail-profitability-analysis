@@ -1,5 +1,7 @@
 # Retail Profitability Analysis Dashboard
 
+![Retail Profitability Dashboard](/assets/dashboard.png)
+
 ## 📌 Project Overview
 This project analyzes retail sales data to identify key drivers of profitability and uncover areas contributing to financial losses. The dashboard is designed to support business decision-making by highlighting trends, regional performance, discount impact, and loss-making products.
 
@@ -232,9 +234,6 @@ Here's the breakdown of customer segment profitability :
 - Enforce **discount controls**, especially limiting high-discount promotions that consistently erode profitability.
 - Review and optimize **high-sales but loss-making products** through pricing adjustments, cost renegotiation, or product rationalization.
 - Protect and expand high-margin customer segments such as **Home Office** customers using targeted, low-discount strategies.
-
-## 📈 Dashboard Preview
-![Retail Profitability Dashboard](/assets/dashboard.png)
 
 ## 🚀 Outcome
 This dashboard enables stakeholders to:
