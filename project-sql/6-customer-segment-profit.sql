@@ -4,7 +4,7 @@
 
 SELECT
     segment,
-    COUNT(DISTINCT order_id) AS total_orders,
+    COUNT(order_id) AS total_orders,
     SUM(sales) AS total_sales,
     SUM(profit) AS total_profit,
     ROUND(SUM(profit) / SUM(sales), 2) AS profit_ratio
