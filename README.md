@@ -17,7 +17,7 @@ Despite strong sales performance, the business experiences inconsistent profitab
 - Which customer segments are most profitable
 
 ## 📊 Dataset
-- **Source:** [Sample Superstore dataset](/assets/sample-superstore.csv)
+- **Source:** [Sample Superstore dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 - **Time Period:** 2014 – 2017
 - **Key Fields:**  
   - Sales  
